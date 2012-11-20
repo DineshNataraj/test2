@@ -49,6 +49,8 @@ background-color:red;
 	}
 	echo '</table>';
 	echo 'completed';
+	
+	echo 'computer';
 	?>
 
 </body>
