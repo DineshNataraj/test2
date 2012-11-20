@@ -48,7 +48,7 @@ background-color:red;
 		echo '</tr>';
 	}
 	echo '</table>';
-	
+	echo 'completed';
 	?>
 
 </body>
