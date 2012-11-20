@@ -48,6 +48,7 @@ background-color:red;
 		echo '</tr>';
 	}
 	echo '</table>';
+	
 	?>
 
 </body>
